@@ -1,0 +1,659 @@
+# Translation of Themes - Rara Academic in Russian
+# This file is distributed under the same license as the Themes - Rara Academic package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-02-18 22:13:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Rara Academic\n"
+
+#. Theme Name of the plugin/theme
+msgid "Rara Academic"
+msgstr "Rara Academic"
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr "Боковая панель показываемая только на страницах WooCommerce."
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr "Боковая панель магазина"
+
+#: inc/template-functions.php:301
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/template-functions.php:240
+msgid "d"
+msgstr "d"
+
+#: inc/template-functions.php:239 inc/template-functions.php:244
+msgid "F"
+msgstr "F"
+
+#: inc/template-functions.php:239
+msgid "m"
+msgstr "m"
+
+#: inc/template-functions.php:238 inc/template-functions.php:239
+#: inc/template-functions.php:243 inc/template-functions.php:247
+msgid "Y"
+msgstr "Y"
+
+#: inc/info.php:179
+msgid "VIEW PRO THEME"
+msgstr "ПОСМОТРЕТЬ ТЕМУ PRO"
+
+#: inc/info.php:177
+msgid "Pro Available"
+msgstr "Доступна Pro"
+
+#: inc/info.php:56
+msgid "About Rara Academic"
+msgstr "О Rara Academic"
+
+#: inc/info.php:52
+msgid "More WordPress Themes"
+msgstr "Больше тем WordPress"
+
+#: inc/info.php:51
+msgid "Rate this theme"
+msgstr "Оценить эту тему"
+
+#: inc/info.php:50
+msgid "Support ticket"
+msgstr "Тикет в поддержку"
+
+#: inc/info.php:49
+msgid "Theme info"
+msgstr "Информация о теме"
+
+#: inc/info.php:48
+msgid "View documentation"
+msgstr "Посмотреть документацию"
+
+#: inc/info.php:47 inc/info.php:48 inc/info.php:49 inc/info.php:50
+#: inc/info.php:51 inc/info.php:52
+msgid "here"
+msgstr "здесь"
+
+#: inc/info.php:47
+msgid "View demo"
+msgstr "Посмотреть демо"
+
+#: inc/info.php:46
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr "Информационные ссылки"
+
+#. Template Name of the plugin/theme
+msgid "Home Page"
+msgstr "Главная страница"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-search.php:35 template-parts/content.php:43
+#: template-parts/content.php:52
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:31
+msgid "It seems we can not find what you are looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поможет поиск."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по вашим условиям поиска. Пожалуйста, попробуйте снова с другими ключевыми словами."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: sections/testimonial.php:52
+msgid ","
+msgstr ","
+
+#: sections/testimonial.php:48
+msgid "-"
+msgstr "-"
+
+#: sections/blog.php:54
+msgctxt "post author"
+msgid "By %s"
+msgstr "От %s"
+
+#: search.php:21
+msgid "If you don&rsquo;t find what you want please do another search"
+msgstr "Если вы не нашли того, что хотели, пожалуйста попробуйте поискать снова"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/widgets/widgets.php:48
+msgid "Footer Four"
+msgstr "Область в подвале 4"
+
+#: inc/widgets/widgets.php:38
+msgid "Footer Three"
+msgstr "Область в подвале 3"
+
+#: inc/widgets/widgets.php:28
+msgid "Footer Two"
+msgstr "Область в подвале 2"
+
+#: inc/widgets/widgets.php:18
+msgid "Footer One"
+msgstr "Область в подвале 1"
+
+#: inc/widgets/widgets.php:10 inc/widgets/widgets.php:20
+#: inc/widgets/widgets.php:30 inc/widgets/widgets.php:40
+#: inc/widgets/widgets.php:50
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: inc/widgets/widgets.php:8
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: inc/widgets/widget-social-links.php:72
+msgid "You can change the social links from the customizer in Social Settings options."
+msgstr "Вы можете изменить социальные ссылки в настройщике темы в разделе Социальные настройки."
+
+#: inc/widgets/widget-social-links.php:41
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:91
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr "Виджет социальных ссылок"
+
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr "RARA: Социальные ссылки"
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr "Виджет недавних записей"
+
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr "RARA: Недавняя запись"
+
+#: inc/widgets/widget-popular-post.php:127
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr "Показывать дату записи"
+
+#: inc/widgets/widget-popular-post.php:122
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr "Показывать миниатюру записи"
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr "Количество записей"
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-social-links.php:67
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr "Виджет популярных записей"
+
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr "RARA: Популярная запись"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:65
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: inc/template-tags.php:52 inc/template-tags.php:58
+#: inc/widgets/widget-popular-post.php:76 inc/widgets/widget-recent-post.php:75
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post title
+#: inc/template-tags.php:36
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Оставьте комментарий<span class=\"screen-reader-text\">%s</span>\t"
+
+#: inc/template-tags.php:28
+msgctxt "post author"
+msgid "BY %s"
+msgstr "ОТ %s"
+
+#: inc/template-tags.php:23
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-functions.php:466
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: inc/template-functions.php:466
+msgid "Powered by %s"
+msgstr "Работает на %s"
+
+#: inc/template-functions.php:465
+msgid "Rara Academic by Rara Theme."
+msgstr "Rara Academic от Rara Theme."
+
+#: inc/template-functions.php:462
+msgid "&copy; Copyright "
+msgstr "&copy; Авторские права"
+
+#: inc/template-functions.php:369
+msgid "Posted by %s"
+msgstr "Опубликовано %s"
+
+#: inc/template-functions.php:343
+msgid "404 Error - Page not Found"
+msgstr "Ошибка 404 - Страница не найдена"
+
+#: inc/template-functions.php:235
+msgid "\""
+msgstr "\""
+
+#: inc/template-functions.php:235
+msgid "Search Results for \""
+msgstr "Результаты поиска для \""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr "Выберите шаблон боковой колонки"
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr "Нет боковой колонки"
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr "Правая боковая колонка (по умолчанию)"
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr "Разметка боковой колонки"
+
+#: inc/customizer.php:965
+msgid "Enable Social Links in Header"
+msgstr "Включить социальные ссылки в шапке"
+
+#: inc/customizer.php:947
+msgid "Leave blank if you do not want to show the social link."
+msgstr "Оставьте пустым, если вы не хотите показывать социальные ссылки"
+
+#: inc/customizer.php:946
+msgid "Social Settings"
+msgstr "Социальные настройки"
+
+#: inc/customizer.php:935
+msgid "Breadcrumb Separator"
+msgstr "Разделитель хлебных крошек"
+
+#: inc/customizer.php:927 inc/template-functions.php:183
+msgid ">"
+msgstr ">"
+
+#: inc/customizer.php:917
+msgid "Breadcrumb Home Text"
+msgstr "Текст для главной страницы в хлебных крошках"
+
+#: inc/customizer.php:909 inc/template-functions.php:184
+msgid "Home"
+msgstr "Главная"
+
+#: inc/customizer.php:899
+msgid "Show current"
+msgstr "Показывать текущую"
+
+#: inc/customizer.php:881
+msgid "Enable Breadcrumb"
+msgstr "Включить хлебные крошки"
+
+#: inc/customizer.php:862
+msgid "Breadcrumb Settings"
+msgstr "Настройки хлебных крошек"
+
+#: inc/customizer.php:779
+msgid "Enable CTA Section"
+msgstr "Включить раздел призыва к действию"
+
+#: inc/customizer.php:761
+msgid "CTA Section"
+msgstr "Раздел призыва к действию"
+
+#: inc/customizer.php:750
+msgid "Choose Testimonials Category"
+msgstr "Выберите рубрику для отзывов"
+
+#: inc/customizer.php:714
+msgid "Enable Testimonials Section"
+msgstr "Включить раздел отзывов"
+
+#: inc/customizer.php:696
+msgid "Testimonials Section"
+msgstr "Раздел отзывов"
+
+#: inc/customizer.php:650
+msgid "Enable Latest News Section"
+msgstr "Включить раздел последних новостей"
+
+#: inc/customizer.php:632
+msgid "Blog Section"
+msgstr "Раздел блога"
+
+#: inc/customizer.php:622 inc/customizer.php:851
+msgid "Button Link"
+msgstr "Ссылка кнопки"
+
+#: inc/customizer.php:604 inc/customizer.php:833
+msgid "Button Label"
+msgstr "Название кнопки"
+
+#: inc/customizer.php:550
+msgid "Enable Notice Section"
+msgstr "Включить раздел уведомлений"
+
+#: inc/customizer.php:532
+msgid "Notice Section"
+msgstr "Раздел уведомлений"
+
+#: inc/customizer.php:521
+msgid "Select Post Six"
+msgstr "Выберите шестую запись"
+
+#: inc/customizer.php:502
+msgid "Select Post Five"
+msgstr "Выберите пятую запись"
+
+#: inc/customizer.php:483
+msgid "Select Post Four"
+msgstr "Выберите четвертую запись"
+
+#: inc/customizer.php:392
+msgid "Enable Services Section"
+msgstr "Включить раздел услуг"
+
+#: inc/customizer.php:374
+msgid "Service Section"
+msgstr "Раздел услуг"
+
+#: inc/customizer.php:357 sections/welcome.php:9
+#: template-parts/content-search.php:42 template-parts/content.php:61
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer.php:346
+msgid "Select Welcome Post"
+msgstr "Выберите приветственную запись"
+
+#: inc/customizer.php:328
+msgid "Enable Welcome Section"
+msgstr "Включить раздел приветствия"
+
+#: inc/customizer.php:310
+msgid "Welcome Section"
+msgstr "Раздел приветствия"
+
+#: inc/customizer.php:299 inc/customizer.php:464
+msgid "Select Post Three"
+msgstr "Выберите третью запись"
+
+#: inc/customizer.php:280 inc/customizer.php:445
+msgid "Select Post Two"
+msgstr "Выберите вторую запись"
+
+#: inc/customizer.php:261 inc/customizer.php:426
+msgid "Select Post One"
+msgstr "Выберите первую запись"
+
+#: inc/customizer.php:243 inc/customizer.php:586 inc/customizer.php:686
+#: inc/customizer.php:815
+msgid "Section Description"
+msgstr "Описание раздела"
+
+#: inc/customizer.php:225 inc/customizer.php:409 inc/customizer.php:568
+#: inc/customizer.php:668 inc/customizer.php:732 inc/customizer.php:797
+msgid "Section Title"
+msgstr "Заголовок раздела"
+
+#: inc/customizer.php:207
+msgid "Enable Courses Section"
+msgstr "Включить раздел курсов"
+
+#: inc/customizer.php:189
+msgid "Courses Section"
+msgstr "Раздел курсов"
+
+#: inc/customizer.php:179 inc/customizer.php:365
+msgid "Read More Texts"
+msgstr "Тексты читать далее"
+
+#: inc/customizer.php:171 sections/banner.php:9
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/customizer.php:160
+msgid "Select Banner Post"
+msgstr "Выберите запись для баннера"
+
+#: inc/customizer.php:142
+msgid "Enable Banner Section"
+msgstr "Включить раздел с баннером"
+
+#: inc/customizer.php:124
+msgid "Banner Section"
+msgstr "Раздел с баннером"
+
+#: inc/customizer.php:116
+msgid "Customize Home Page Settings"
+msgstr "Настроить главную страницу"
+
+#: inc/customizer.php:115
+msgid "Home Page Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/customizer.php:103
+msgid "Email Address"
+msgstr "Email-адрес"
+
+#: inc/customizer.php:85
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/customizer.php:67
+msgid "Header Settings"
+msgstr "Настройки заголовка"
+
+#: inc/customizer.php:47
+msgid "Default section provided by wordpress customizer"
+msgstr "Раздел по умолчанию предоставляемый интерфейсом настройки WordPress"
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr "Выберите рубрику"
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr "Выберите запись"
+
+#: inc/custom-functions.php:138 inc/customizer.php:1092
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/custom-functions.php:136 inc/customizer.php:1074
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/custom-functions.php:134 inc/customizer.php:1056
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/custom-functions.php:132 inc/customizer.php:1038
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/custom-functions.php:130 inc/customizer.php:1020
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/custom-functions.php:128 inc/customizer.php:1002
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/custom-functions.php:126 inc/customizer.php:983
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/custom-functions.php:100
+msgid "Page"
+msgstr "Страница"
+
+#: inc/custom-functions.php:99
+msgid ">>"
+msgstr ">>"
+
+#: inc/custom-functions.php:98
+msgid "<<"
+msgstr "<<"
+
+#: functions.php:59
+msgid "Secondary"
+msgstr "Дополнительная"
+
+#: functions.php:58
+msgid "Primary"
+msgstr "Основная"
+
+#: comments.php:127
+msgid "Your email address will not be published. "
+msgstr "Ваш адрес эл.почты не будет опубликован."
+
+#: comments.php:120
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из этой учетной записи\">Выйти?</a>"
+
+#: comments.php:114
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\">войти</a>, чтобы оставить комментарий."
+
+#: comments.php:109
+msgid "Comment"
+msgstr "Комментарий"
+
+#: comments.php:105
+msgid "Submit"
+msgstr "Отправить"
+
+#: comments.php:104
+msgid "Cancel Reply"
+msgstr "Отменить ответ"
+
+#: comments.php:103
+msgid "Leave a Reply to %s"
+msgstr "Оставить ответ на %s"
+
+#: comments.php:102
+msgid "Leave a Reply"
+msgstr "Оставить ответ"
+
+#: comments.php:92
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: comments.php:88
+msgid "Email*"
+msgstr "Email*"
+
+#: comments.php:84
+msgid "Name*"
+msgstr "Имя*"
+
+#: comments.php:79
+msgid "Required fields are marked"
+msgstr "Обязательные поля помечены"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: 404.php:23
+msgid "Back to Home"
+msgstr "Назад на главную"
+
+#: 404.php:19
+msgid "It seems we can not find what you are looking for. Perhaps searching will help."
+msgstr "Похоже мы не можем найти то, что вы искали. Возможно поиск поможет."
+
+#: 404.php:16
+msgid "Oops! the page you requested was not found!"
+msgstr "Упс! Запрошенная страница не найдена!"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "http://raratheme.com/"
+msgstr "http://raratheme.com/"
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the plugin/theme
+msgid "http://raratheme.com/wordpress-themes/rara-academic/"
+msgstr "http://raratheme.com/wordpress-themes/rara-academic/"

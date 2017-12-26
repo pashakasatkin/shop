@@ -1,0 +1,206 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Russian Post and EMS for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-17 15:27+0000\n"
+"POT-Revision-Date: Mon Aug 08 2016 23:13:14 GMT+0900 (YAKT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: russian-post-and-ems-for-woocommerce.php:130
+#: russian-post-and-ems-for-woocommerce.php:141
+msgid "Russian Post"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:131
+msgid ""
+"The plugin allows you to automatically calculate shipping costs \"Russian "
+"Post\" or \"EMS\" on the checkout page using postcalc.ru service."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:139
+msgid "Title"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:144
+msgid "Оrigin Postcode"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:145
+msgid "6-digit code of the sender."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:149
+msgid "Сost"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:150
+msgid ""
+"Additional flat rate for shipping method. This may be the average value of "
+"the package or the cost of fuel, spent on the road to the post;)"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:155
+msgid "Type"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:159
+msgid "Simple wrapper"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:160
+msgid "Custom wrapper"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:161
+msgid "Custom wrapper 1 class"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:162
+msgid "Valued wrapper"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:163
+msgid "Simple Parcel"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:164
+msgid "Valued parcel"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:165
+msgid "Valued avia wrapper"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:166
+msgid "Valued avia parcel"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:167
+msgid "Valued wrapper 1 class"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:168
+msgid "EMS"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:190
+msgid "Max. Fixed Package Value"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:191
+msgid ""
+"You can set max. fixed value for some types of departure. By default value "
+"equals sum of the order."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:197
+msgid "Packaging"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:198
+msgid ""
+"Weight of the one packaging in grams. This weight will be added to the total "
+"weight of the order."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:203
+msgid ""
+"Cost of the one packaging. This cost will be added to the final amount of "
+"delivery."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:209
+msgid "Min. cost of order"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:210
+msgid ""
+"Disable this method if the cost of the order is less than inputted value. "
+"Leave this field empty to allow any order cost."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:215
+msgid "Do not allow overweight"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:217
+msgid "Disable this method in case of overweight."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:218
+msgid ""
+"Hide this method if package weight is heavier than the allowed weight for a "
+"chosen type of departure. By default, if there is overweight the package "
+"will be split into two or more packages."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:224
+msgid "Notice of overweight"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:226
+msgid "Show a notice about overweight."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:227
+msgid ""
+"Show a message to the customer if the total weight of the order exceeds the "
+"permitted weight for specific type of delivery"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:236
+msgid "Delivery Time"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:238
+msgid "Show time of delivery."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:239
+msgid ""
+"Displayed next to the title. For international shipments, it works only for "
+"EMS - international."
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:391
+msgid "For the method"
+msgstr ""
+
+#: russian-post-and-ems-for-woocommerce.php:527
+msgid "For the calculation of delivery used"
+msgstr ""
+
+#. Name of the plugin
+msgid "Russian Post and EMS for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The plugin allows you to automatically calculate the shipping cost for "
+"\"Russian Post\" or \"EMS\""
+msgstr ""
+
+#. Author of the plugin
+msgid "Artem Komarov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "mailto:yumecommerce@gmail.com"
+msgstr ""

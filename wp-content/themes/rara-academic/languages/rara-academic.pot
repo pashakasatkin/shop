@@ -1,0 +1,760 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 12:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! the page you requested was not found!"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching will "
+"help."
+msgstr ""
+
+#: 404.php:23
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:49
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:79
+msgid "Required fields are marked"
+msgstr ""
+
+#: comments.php:84
+msgid "Name*"
+msgstr ""
+
+#: comments.php:88
+msgid "Email*"
+msgstr ""
+
+#: comments.php:92
+msgid "Website"
+msgstr ""
+
+#: comments.php:102
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:103
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:104
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:105
+msgid "Submit"
+msgstr ""
+
+#: comments.php:109
+msgid "Comment"
+msgstr ""
+
+#: comments.php:114
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:120
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:127
+msgid "Your email address will not be published. "
+msgstr ""
+
+#: functions.php:58
+msgid "Primary"
+msgstr ""
+
+#: functions.php:59
+msgid "Secondary"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:21
+msgid "If you don&rsquo;t find what you want please do another search"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/custom-functions.php:98
+msgid "<<"
+msgstr ""
+
+#: inc/custom-functions.php:99
+msgid ">>"
+msgstr ""
+
+#: inc/custom-functions.php:100
+msgid "Page"
+msgstr ""
+
+#: inc/custom-functions.php:129 inc/customizer.php:983
+msgid "Facebook"
+msgstr ""
+
+#: inc/custom-functions.php:131 inc/customizer.php:1002
+msgid "Twitter"
+msgstr ""
+
+#: inc/custom-functions.php:133 inc/customizer.php:1020
+msgid "Pinterest"
+msgstr ""
+
+#: inc/custom-functions.php:135 inc/customizer.php:1038
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/custom-functions.php:137 inc/customizer.php:1056
+msgid "Google Plus"
+msgstr ""
+
+#: inc/custom-functions.php:139 inc/customizer.php:1074
+msgid "Instagram"
+msgstr ""
+
+#: inc/custom-functions.php:141 inc/customizer.php:1092
+msgid "YouTube"
+msgstr ""
+
+#: inc/custom-functions.php:143 inc/customizer.php:1110
+msgid "OK"
+msgstr ""
+
+#: inc/custom-functions.php:145 inc/customizer.php:1127
+msgid "VK"
+msgstr ""
+
+#: inc/custom-functions.php:147 inc/customizer.php:1145
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Choose Post"
+msgstr ""
+
+#: inc/customizer.php:34
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "Default Settings"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Default section provided by wordpress customizer"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Customize Home Page Settings"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Select Banner Post"
+msgstr ""
+
+#: inc/customizer.php:171 sections/banner.php:9
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer.php:179 inc/customizer.php:365
+msgid "Read More Texts"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Courses Section"
+msgstr ""
+
+#: inc/customizer.php:207
+msgid "Enable Courses Section"
+msgstr ""
+
+#: inc/customizer.php:225 inc/customizer.php:409 inc/customizer.php:568
+#: inc/customizer.php:668 inc/customizer.php:732 inc/customizer.php:797
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer.php:243 inc/customizer.php:586 inc/customizer.php:686
+#: inc/customizer.php:815
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer.php:261 inc/customizer.php:426
+msgid "Select Post One"
+msgstr ""
+
+#: inc/customizer.php:280 inc/customizer.php:445
+msgid "Select Post Two"
+msgstr ""
+
+#: inc/customizer.php:299 inc/customizer.php:464
+msgid "Select Post Three"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Welcome Section"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Enable Welcome Section"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Select Welcome Post"
+msgstr ""
+
+#: inc/customizer.php:357 sections/welcome.php:9
+#: template-parts/content-search.php:42 template-parts/content.php:63
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Enable Services Section"
+msgstr ""
+
+#: inc/customizer.php:483
+msgid "Select Post Four"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "Select Post Five"
+msgstr ""
+
+#: inc/customizer.php:521
+msgid "Select Post Six"
+msgstr ""
+
+#: inc/customizer.php:532
+msgid "Notice Section"
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Enable Notice Section"
+msgstr ""
+
+#: inc/customizer.php:604 inc/customizer.php:833
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer.php:622 inc/customizer.php:851
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Enable Latest News Section"
+msgstr ""
+
+#: inc/customizer.php:696
+msgid "Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:714
+msgid "Enable Testimonials Section"
+msgstr ""
+
+#: inc/customizer.php:750
+msgid "Choose Testimonials Category"
+msgstr ""
+
+#: inc/customizer.php:761
+msgid "CTA Section"
+msgstr ""
+
+#: inc/customizer.php:779
+msgid "Enable CTA Section"
+msgstr ""
+
+#: inc/customizer.php:862
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer.php:881
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:899
+msgid "Show current"
+msgstr ""
+
+#: inc/customizer.php:909 inc/template-functions.php:186
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:917
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer.php:927 inc/template-functions.php:185
+msgid ">"
+msgstr ""
+
+#: inc/customizer.php:935
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: inc/customizer.php:946
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:947
+msgid "Leave blank if you do not want to show the social link."
+msgstr ""
+
+#: inc/customizer.php:965
+msgid "Enable Social Links in Header"
+msgstr ""
+
+#: inc/customizer.php:1156
+msgid "Blog Page Settings"
+msgstr ""
+
+#: inc/customizer.php:1174
+msgid "Full content in Blog page"
+msgstr ""
+
+#: inc/customizer.php:1184
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:1201
+msgid "Copyright Info"
+msgstr ""
+
+#: inc/info.php:11
+msgid "Information Links"
+msgstr ""
+
+#: inc/info.php:29
+msgid ""
+"<strong>Instruction for how to setup Home Page in Rara Academic "
+"Theme</strong><br/>1. Go to Pages and create a new page (Title can be "
+"anything. For example, Home )<br/>\n"
+"2. In right column and under Page Attributes, choose \"Home Page\" "
+"template<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance-> Customize -> Default Settings -> Static Front Page<br/>"
+"\n"
+"5. Select A static page<br/>\n"
+"6. Under Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+
+#: inc/info.php:46
+msgid "Need help?"
+msgstr ""
+
+#: inc/info.php:47
+msgid "View demo"
+msgstr ""
+
+#: inc/info.php:47 inc/info.php:48 inc/info.php:49 inc/info.php:50
+#: inc/info.php:51 inc/info.php:52
+msgid "here"
+msgstr ""
+
+#: inc/info.php:48
+msgid "View documentation"
+msgstr ""
+
+#: inc/info.php:49
+msgid "Theme info"
+msgstr ""
+
+#: inc/info.php:50
+msgid "Support ticket"
+msgstr ""
+
+#: inc/info.php:51
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/info.php:52
+msgid "More WordPress Themes"
+msgstr ""
+
+#: inc/info.php:56
+msgid "About Rara Academic"
+msgstr ""
+
+#: inc/info.php:177
+msgid "Pro Available"
+msgstr ""
+
+#: inc/info.php:179
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:24
+msgid "Right Sidebar (default)"
+msgstr ""
+
+#: inc/metabox.php:29
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/metabox.php:41
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:237
+msgid "Search Results for \""
+msgstr ""
+
+#: inc/template-functions.php:237
+msgid "\""
+msgstr ""
+
+#: inc/template-functions.php:240 inc/template-functions.php:240
+#: inc/template-functions.php:241 inc/template-functions.php:245
+#: inc/template-functions.php:245 inc/template-functions.php:249
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:241
+msgid "m"
+msgstr ""
+
+#: inc/template-functions.php:241 inc/template-functions.php:246
+msgid "F"
+msgstr ""
+
+#: inc/template-functions.php:242
+msgid "d"
+msgstr ""
+
+#: inc/template-functions.php:303
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-functions.php:345
+msgid "404 Error - Page not Found"
+msgstr ""
+
+#: inc/template-functions.php:371
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#: inc/template-functions.php:469
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/template-functions.php:473
+msgid "Rara Academic by Rara Theme."
+msgstr ""
+
+#: inc/template-functions.php:474
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:474
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post author"
+msgid "BY %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:36
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52 inc/template-tags.php:58
+#: inc/widgets/widget-popular-post.php:76 inc/widgets/widget-recent-post.php:75
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:65
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/woocommerce-functions.php:36
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:38
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: sections/blog.php:54
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: sections/testimonial.php:48
+msgid "-"
+msgstr ""
+
+#: sections/testimonial.php:52
+msgid ","
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-search.php:35 template-parts/content.php:43
+#: template-parts/content.php:52
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-popular-post.php:25
+msgid "RARA: Popular Post"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:26
+msgid "A Popular Post Widget"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:111
+#: inc/widgets/widget-recent-post.php:110
+#: inc/widgets/widget-social-links.php:67
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:116
+#: inc/widgets/widget-recent-post.php:115
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:122
+#: inc/widgets/widget-recent-post.php:121
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-popular-post.php:127
+#: inc/widgets/widget-recent-post.php:126
+msgid "Show Post Date"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-recent-post.php:25
+msgid "RARA: Recent Post"
+msgstr ""
+
+#: inc/widgets/widget-recent-post.php:26
+msgid "A Recent Post Widget"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget-social-links.php:26
+msgid "RARA: Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:27
+msgid "A Social Links Widget"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:41
+#: inc/widgets/widget-social-links.php:62
+#: inc/widgets/widget-social-links.php:91
+msgid "Social Media"
+msgstr ""
+
+#: inc/widgets/widget-social-links.php:72
+msgid ""
+"You can change the social links from the customizer in Social Settings "
+"options."
+msgstr ""
+
+#: inc/widgets/widgets.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:10 inc/widgets/widgets.php:20
+#: inc/widgets/widgets.php:30 inc/widgets/widgets.php:40
+#: inc/widgets/widgets.php:50
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:18
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:38
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:48
+msgid "Footer Four"
+msgstr ""
+
+#. Name of the theme
+msgid "Rara Academic"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Rara Academic is a professionally designed WordPress theme which is best "
+"suited for Education Institution, Schools and Universities. Although "
+"developed with Education institutions in mind, this theme is not limited to "
+"just educational websites. The theme is flexible enough to be used for "
+"business and corporate websites. Theme is highly customizable with layout "
+"settings and several other theme options which can be customized by using "
+"Powerful Theme Options panel. Rara Academic comes with several features to "
+"make user-friendly, interactive and visually stunning website. Such features "
+"include custom menu, Call to Action Button, Full width Banner, Testimonial "
+"section, Courses section and social media. It has four footer areas and a "
+"right sidebar and includes three custom widgets for the recent posts, "
+"popular posts, and social media. The theme is SEO friendly with optimized "
+"codes, which make it easy for your site to rank on Google and other search "
+"engines. The theme is rigorously tested and optimized for speed and faster "
+"page load time and has a secure and clean code. The theme is also "
+"translation ready. Designed with visitor engagement in mind, Rara Academic "
+"helps you to easily and intuitively create professional and appealing "
+"websites. Check the demo at http://raratheme.com/preview/rara-academic/, "
+"documentation at http://raratheme.com/documentation/rara-academic and get "
+"support at https://raratheme.com/support-ticket"
+msgstr ""
+
+#. URI of the theme
+msgid "http://raratheme.com/wordpress-themes/rara-academic/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://raratheme.com/"
+msgstr ""
